@@ -1,0 +1,24 @@
+{
+  "name": "netomi-agentic-lessons-playbook",
+  "version": "0.1.0",
+  "description": "Enterprise agentic scaling lessons modeled as a small policy + routing playbook.",
+  "main": "src/index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "agentic",
+    "enterprise",
+    "guardrails",
+    "routing",
+    "playbook"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "jest": "^29.7.0"
+  }
+}
